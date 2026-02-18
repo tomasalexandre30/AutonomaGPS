@@ -118,13 +118,17 @@ Allows the user to follow a **pre-defined route** through the campus points of i
 
 Full control over the app experience, organised into five sections:
 
+<div align="center">
+
 | Section | What it configures |
-|---------|--------------------|
+|:---|:---|
 | **Sound** | TTS voice, speed, volume, language and audio files |
 | **Accessibility** | Contrast, text size, vibration and feedback type |
 | **Map** | UAL indoor map display preferences |
 | **Personalisation** | Light/dark theme and visual settings |
 | **Language** | Portuguese / English / French |
+
+</div>
 
 ## Hardware - BLE Beacons
 
