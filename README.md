@@ -8,8 +8,8 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-3.19+-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-3.9-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Bluetooth](https://img.shields.io/badge/BLE-iBeacon-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)
+![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20iOS-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ### Final Degree Project - Computer Engineering 2024/2025 at Universidade Autónoma de Lisboa
 
@@ -18,31 +18,10 @@
 </div>
 
 > ## Full Documentation
-> This README provides a structured overview of the project. For a comprehensive and in-depth explanation of every technical decision, system architecture, beacon mapping, algorithm implementation, challenges faced, and future work - **read the full report:**
+> This README provides a structured overview of the project. For a comprehensive and in-depth explanation of every technical decision, system architecture, beacon mapping, algorithm implementation, challenges faced, and future work **read the full report**:
 >
-> **[Access the Full Project Report](android/report/Report.pdf)** &nbsp;|&nbsp; **[Watch the Project Video]([#](https://www.youtube.com/watch?v=wC5PRanA4iI))**
+> **[Access the Full Project Report](android/report/Report.pdf)** &nbsp;|&nbsp; **[Watch the Project Video](https://www.youtube.com/watch?v=wC5PRanA4iI)**
 >
-
-
----
-
-## Table of Contents
-
-- [About the Project](#about-the-project)
-- [Features](#features)
-- [System Architecture](#system-architecture)
-- [Pages & Functionality](#pages--functionality)
-- [Hardware — BLE Beacons](#hardware--ble-beacons)
-- [Dijkstra's Algorithm](#dijkstras-algorithm)
-- [Flutter Libraries](#flutter-libraries)
-- [Setup & Installation](#setup--installation)
-- [Budget](#budget)
-- [Challenges & Solutions](#challenges--solutions)
-- [Future Work](#future-work)
-- [Documentation & Media](#documentation--media)
-- [Authors](#authors)
-
----
 
 ## About the Project
 
@@ -56,10 +35,6 @@ The app uses **Bluetooth Low Energy (BLE) Beacons** strategically placed across 
 - **Android & iOS** support from a single codebase
 - Interface designed from **real feedback** from a blind user
 - Audio instructions available in **Portuguese, English and French**
-
-> For the full technical background, methodology, and design decisions, see the **[Project Report](#)**.
-
----
 
 ## Features
 
@@ -76,8 +51,6 @@ The app uses **Bluetooth Low Energy (BLE) Beacons** strategically placed across 
 | **Light / Dark Mode** | Visual themes for greater comfort |
 | **Multilingual** | UI available in Portuguese, English and French via JSON files |
 | **Privacy Policy** | Informed consent popup on first launch |
-
----
 
 ## System Architecture
 
@@ -107,8 +80,6 @@ flowchart TD
     class A,B,C page
     class D,E,F,D1,D2,D3,D4,D5,E1,E2,F1,F2,F3,F4,F5 feature
 ```
-
----
 
 ## Pages & Functionality
 
@@ -350,4 +321,5 @@ Project developed as part of the **Bachelor's Degree in Computer Engineering** a
 <div align="center">
   <sub>Built with care to promote inclusion at Universidade Autónoma de Lisboa</sub>
 </div>
+
 
