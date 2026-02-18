@@ -102,11 +102,11 @@ The functional core of the system. The user selects a destination (by tap or voi
 Allows the user to follow a **pre-defined route** through the campus points of interest, with automatic narration at each location. Ideal for new students or visitors who want to explore the facilities independently.
 
 <p align="center">
-  <img src="assets/images/panels/19.png" width="180">
-  <img src="assets/images/panels/20.png" width="180">
-  <img src="assets/images/panels/21.png" width="180">
-  <img src="assets/images/panels/22.png" width="180">
-  <img src="assets/images/panels/23.png" width="180">
+  <img src="assets/images/panels/19.png" width="150">
+  <img src="assets/images/panels/20.png" width="150">
+  <img src="assets/images/panels/21.png" width="150">
+  <img src="assets/images/panels/22.png" width="150">
+  <img src="assets/images/panels/23.png" width="150">
 </p>
 
 > ⚠️ In the current version, the tour always starts from the main entrance. The ability to start from any point is planned for future development.
@@ -257,6 +257,7 @@ Project developed as part of the **Bachelor's Degree in Computer Engineering** a
 | Guilherme Monteiro Brito | 30010959 |
 
 > **Supervisor:** Professor Doutor Mário Marques da Silva | **July 2025**
+
 
 
 
