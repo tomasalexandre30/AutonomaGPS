@@ -20,7 +20,7 @@
 > ## Full Documentation
 > This README provides a structured overview of the project. For a comprehensive and in-depth explanation of every technical decision, system architecture, beacon mapping, algorithm implementation, challenges faced, and future work - **read the full report:**
 >
-> **[Access the Full Project Report](report/)** &nbsp;|&nbsp; **[Watch the News Coverage](#)**
+> **[Access the Full Project Report](android/report/Report.pdf)** &nbsp;|&nbsp; **[Watch the Project Video]([#](https://www.youtube.com/watch?v=wC5PRanA4iI))**
 >
 
 
@@ -350,3 +350,4 @@ Project developed as part of the **Bachelor's Degree in Computer Engineering** a
 <div align="center">
   <sub>Built with care to promote inclusion at Universidade Autónoma de Lisboa</sub>
 </div>
+
